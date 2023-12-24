@@ -1,16 +1,16 @@
 {
-    "name": "adeyinkaadejumo/filament-maps",
+    "name": "adeyinka/filament-maps",
     "description": "Map components for Filament.",
     "keywords": [
         "laravel",
         "filament"
     ],
-    "homepage": "https://github.com/adeyinkaadejumo/filament-maps",
+    "homepage": "https://github.com/adeyinka/filament-maps",
     "license": "MIT",
     "authors": [
         {
             "name": "Adeyinka",
-            "email": "adeyinkaadejumo@gmail.com",
+            "email": "the.adeyinka.adejumo@gmail.com",
             "role": "Developer"
         }
     ],
